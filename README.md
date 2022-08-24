@@ -17,3 +17,13 @@ This repo aims to share with public users the use of cdsapi which can be used to
 ## Rainfall seasonal patterns in California derived from the weather station, retrieved via cdsapi.
 
 ![](https://github.com/pinkychow1010/Downloading-CMIP-Data-using-Python/blob/main/data-exploration/cmip_hist.png)
+
+<br>
+<br>
+
+## Referecne Tutorial
+
+**reference_python_geospatial.ipynb** serves as a reference notebook from **Ali Ahmadalipour** on working with CMIP data using Python. He also write a [post](https://www.linkedin.com/pulse/python-climate-data-analysis-tutorial-code-ali-ahmadalipour/) on climate data analysis using Python.
+
+
+Credits: Ali Ahmadalipour for the tutorial
