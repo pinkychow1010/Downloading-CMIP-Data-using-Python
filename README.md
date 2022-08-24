@@ -14,6 +14,6 @@ This repo aims to share with public users the use of cdsapi which can be used to
 <br>
 
 ## Example Data:
-## Rainfall seasonal patterns derived from the weather station, retrieved via cdsapi.
+## Rainfall seasonal patterns in California derived from the weather station, retrieved via cdsapi.
 
 ![](https://github.com/pinkychow1010/Downloading-CMIP-Data-using-Python/blob/main/data-exploration/cmip_hist.png)
