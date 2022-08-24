@@ -21,13 +21,15 @@ This repo aims to share with public users the use of cdsapi which can be used to
 <br>
 <br>
 
-## Referecne Tutorial
+## Reference Tutorial
 
 **reference_python_geospatial.ipynb** serves as a reference notebook from **Ali Ahmadalipour** on working with CMIP data using Python. He also wrote a [post](https://www.linkedin.com/pulse/python-climate-data-analysis-tutorial-code-ali-ahmadalipour/) on climate data analysis using Python.
 
 
 Credits: Ali Ahmadalipour for the tutorial
 
+<br>
+<br>
 
 
 24/08/2022
