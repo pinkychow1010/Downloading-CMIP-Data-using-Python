@@ -1,7 +1,5 @@
 # Climate Time Series
 
-**Data Source:** [Copernicus Climate Data Store](https://cds.climate.copernicus.eu/cdsapp#!/home)
-
 ## 🌡️ **Copernicus Climate Data Store**
 
 ![](https://nordicesmhub.github.io/climate-data-tutorial/02-cds/index.html)
@@ -12,7 +10,10 @@ The The Copernicus Climate Change Service - [Climate Data Store](https://cds.cli
 
 This repo aims to share with public users the use of cdsapi which can be used to retrieve diverse climate data sets. The notebooks illustrates demo to retrieve CMIP6 rainfall data, as well as some first steps for data exploration.
 
+<br>
+<br>
 
-### Rainfall seasonal patterns derived from the weather station, retrieved via cdsapi.
+## Example Data:
+## Rainfall seasonal patterns derived from the weather station, retrieved via cdsapi.
 
 ![](https://github.com/pinkychow1010/Downloading-CMIP-Data-using-Python/blob/main/data-exploration/cmip_hist.png)
