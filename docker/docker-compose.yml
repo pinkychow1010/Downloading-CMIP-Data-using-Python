@@ -1,0 +1,10 @@
+version: "3"
+services:
+  cmip:
+    # if something fails or the server is restarted, the container will restart
+    restart: always 
+    container_name: cmip
+    image: cmip
+    build: 
+      # build the image from the Dockerfile in the current directory
+      context: . 
